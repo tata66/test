@@ -1,6 +1,6 @@
 try:
     pass
 except expression as identifier:
-    pass
+   ddd  pass
 else:
-    pass
+  ddd   pass
